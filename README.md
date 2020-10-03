@@ -1,2 +1,2 @@
 # OpenCv
-All of my OpenCv-Pyhton projects are here:
+All of my OpenCv-Python projects are here:
