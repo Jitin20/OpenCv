@@ -1,5 +1,5 @@
 
-#Use bilateral filter for edge-aware smoothing.
+#import opencv-python. 
 import cv2
 
 num_down = 2 # number of downsampling steps
